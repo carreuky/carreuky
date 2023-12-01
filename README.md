@@ -18,7 +18,7 @@
 
 ## Hi there 👋
 
-- :wave: Hi, I'm Kelvin Nderitu
+<!-- - :wave: Hi, I'm Kelvin Nderitu -->
 - :eyes: I'm interested in Web Development, IT Support and Network Engineering
 <!-- - :seedling: I'm currently learning Ruby on Rails & Python programming. -->
 - :revolving_hearts:️ I'm looking to collaborate on any interesting projects.
